@@ -1,0 +1,18 @@
+# required by x11-drivers/xf86-video-vmware-13.1.0::gentoo
+# required by x11-base/xorg-drivers-1.17::gentoo[video_cards_vmware]
+# required by x11-base/xorg-server-1.17.4::gentoo[xorg]
+# required by x11-drivers/xf86-video-nv-2.1.20-r1::gentoo
+>=x11-libs/libdrm-2.4.65 libkms
+# required by x11-libs/gtk+-2.24.28-r1::gentoo
+# required by www-client/google-chrome-47.0.2526.106_p1::gentoo
+# required by google-chrome (argument)
+>=x11-libs/cairo-1.14.2 X
+# required by net-print/cups-2.0.3::gentoo
+# required by www-client/google-chrome-47.0.2526.106_p1::gentoo
+# required by google-chrome (argument)
+>=app-text/ghostscript-gpl-9.15-r1 cups
+# required by x11-drivers/xf86-video-vmware-13.1.0::gentoo
+# required by x11-base/xorg-drivers-1.17::gentoo[video_cards_vmware]
+# required by x11-base/xorg-server-1.17.4::gentoo[xorg]
+# required by x11-drivers/xf86-video-nv-2.1.20-r1::gentoo
+>=media-libs/mesa-11.0.6 xa
